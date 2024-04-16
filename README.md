@@ -33,31 +33,69 @@
         <title>GOMATHY Ex04 Agri..</title>
     </head>
         <body bgcolor="#d5eed3">
-<h1 style ="font-family:elephant;color:#43086b;text-decoration-line:underline ; text-align:center;";>Ex.04 Images as Hyperlinks</h1>
+<h1 style ="font-family:elephant;color:#43086b;text-decoration-line:underline ;
+ text-align:center;";>Ex.04 Images as Hyperlinks</h1>
 
 <h2 style="font-family:elephant;color:rgb(230, 37, 117);">Sugarcane</h2>
-<a href=" https://www.bing.com/ck/a?!&&p=b18fe348f5b020f4JmltdHM9MTcxMzEzOTIwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0wNGIxNmRjYjY2NzUmaW5zaWQ9NTUwOA&ptn=3&ver=2&hsh=3&fclid=0e3410ad-6c19-67e2-36ba-04b16dcb6675&psq=sugarcane&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU3VnYXJjYW5l&ntb=1">
-<img src="e:\images\sgcane.jpg" width="200"  border size="2" height="200"></a><br>
+<a href=" https://www.bing.com/ck/a?!&&p=b18fe348f5b020f4JmltdHM9MTcxMzEzOT
+IwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0wNGIxNmRjYjY2NzUmaW5
+zaWQ9NTUwOA&ptn=3&ver=2&hsh=3&fclid=0e3410ad-6c19-67e2-36ba-04b16dc
+b6675&psq=sugarcane&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3
+dpa2kvU3VnYXJjYW5l&ntb=1">
+<img src="e:\images\sgcane.jpg" width="200"  border size="2"
+ height="200"></a><br>
 
-<h2 style="font-family:elephant;color:rgb(17, 140, 58);">Sesame</h2>
-<A HREF="https://www.bing.com/ck/a?!&&p=11e2244b4d4d4304JmltdHM9MTcxMzEzOTIwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0wNGIxNmRjYjY2NzUmaW5zaWQ9NTU2MA&ptn=3&ver=2&hsh=3&fclid=0e3410ad-6c19-67e2-36ba-04b16dcb6675&psq=SESAME&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU2VzYW1l&ntb=1">
- <IMG SRC="e:\images\SESAME.jpg"  width="200" border size="2"  height="200"></A><br><br>
+<h2 style="font-family:elephant;color:rgb(17, 140, 58);">
+Sesame</h2>
+<A HREF="https://www.bing.com/ck/a?!&&p=11e2244b4d4d4304JmltdHM9MTcx
+MzEzOTIwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0wNGIxNmRjYjY2Nz
+UmaW5zaWQ9NTU2MA&ptn=3&ver=2&hsh=3&fclid=0e3410ad-6c19-67e2-36ba-04
+b16dcb6675&psq=SESAME&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3J
+nL3dpa2kvU2VzYW1l&ntb=1">
+ <IMG SRC="e:\images\SESAME.jpg"  width="200" border size="2"
+ height="200"></A><br><br>
 
-<h2 style="font-family:elephant;color:#dc6013;">Combined harvester</h2>
-<a href="https://www.bing.com/ck/a?!&&p=47a0648a3de2f96aJmltdHM9MTcxMzEzOTIwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0wNGIxNmRjYjY2NzUmaW5zaWQ9NTU0MA&ptn=3&ver=2&hsh=3&fclid=0e3410ad-6c19-67e2-36ba-04b16dcb6675&psq=harvester&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ29tYmluZV9oYXJ2ZXN0ZXI&ntb=1">
-<img src="e:\images\harvester.webp" width="200"  border size="2" height="200"><br><br></a>
+<h2 style="font-family:elephant;color:#dc6013;">
+Combined harvester</h2>
+<a href="https://www.bing.com/ck/a?!&&p=47a0648a3de2f96aJm
+ltdHM9MTcxMzEzOTIwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItM
+zZiYS0wNGIxNmRjYjY2NzUmaW5zaWQ9NTU0MA&ptn=3&ver=2&hsh=
+3&fclid=0e3410ad-6c19-67e2-36ba-04b16dcb6675&psq=harvester&u
+=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ29tYmluZV9oYXJ2ZXN0ZXI&ntb=1">
+<img src="e:\images\harvester.webp" width="200"  border size="2"
+height="200"><br><br></a>
 
-<h2 style="font-family:elephant;color:#aa1a1a;">Tractor</h2>
-<a href="https://www.bing.com/ck/a?!&&p=620fc08918dd8928JmltdHM9MTcxMzEzOTIwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0wNGIxNmRjYjY2NzUmaW5zaWQ9NTQ5NA&ptn=3&ver=2&hsh=3&fclid=0e3410ad-6c19-67e2-36ba-04b16dcb6675&psq=tractor&u=a1aHR0cHM6Ly93d3cuY3JvcHNyZXZpZXcuY29tL3doYXQtYXJlLXRyYWN0b3JzLXVzZWQtZm9yLw&ntb=1">
-    <img src="e:\images\tractor.jpg" width="200"  border size="2" height="200"><br><br></a>
+<h2 style="font-family:elephant;color:#aa1a1a;">
+Tractor</h2>
+<a href="https://www.bing.com/ck/a?!&&p=620fc089
+18dd8928JmltdHM9MTcxMzEzOTIwMCZpZ3VpZD0wZTM0MTBhZC02YzE5L
+TY3ZTItMzZiYS0wNGIxNmRjYjY2NzUmaW5zaWQ9NTQ5NA&ptn=3&ver=2&
+hsh=3&fclid=0e3410ad-6c19-67e2-36ba-04b16dcb6675&psq=tractor&
+u=a1aHR0cHM6Ly93d3cuY3JvcHNyZXZpZXcuY29tL3doYXQtYXJlLXRyYWN0b3J
+zLXVzZWQtZm9yLw&ntb=1">
+    <img src="e:\images\tractor.jpg" width="200"  border size="2"
+ height="200"><br></a>
 
-<h2 style="font-family:elephant;color:rgb(174, 23, 201);">Fertilizer</h2> 
-<a href="https://www.bing.com/ck/a?!&&p=f6c7e2f4552af867JmltdHM9MTcxMzEzOTIwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0wNGIxNmRjYjY2NzUmaW5zaWQ9NTMwNQ&ptn=3&ver=2&hsh=3&fclid=0e3410ad-6c19-67e2-36ba-04b16dcb6675&psq=fertilizer&u=a1aHR0cHM6Ly9ieWp1cy5jb20vYmlvbG9neS9mZXJ0aWxpemVycy8&ntb=1">
-<img src="e:\images\ferti.jpg"width="200" height="200" border size="2"><br><br></a>
+<h2 style="font-family:elephant;color:rgb(174, 23, 201);">
+Fertilizer</h2> 
+<a href="https://www.bing.com/ck/a?!&&p=f6c7e2f4552af867Jmltd
+HM9MTcxMzEzOTIwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0
+wNGIxNmRjYjY2NzUmaW5zaWQ9NTMwNQ&ptn=3&ver=2&hsh=3&fclid=0e341
+0ad-6c19-67e2-36ba-04b16dcb6675&psq=fertilizer&u=a1aHR0cHM6Ly9i
+eWp1cy5jb20vYmlvbG9neS9mZXJ0aWxpemVycy8&ntb=1">
+ <img src="e:\images\ferti.jpg"width="200" height="200"
+ border size="2"><br></a>
 
-<h2 style="font-family:elephant;color:#107218;"> Organic fertilizer</h2> 
-<a href="https://www.bing.com/ck/a?!&&p=d489aac698460702JmltdHM9MTcxMzIyNTYwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0wNGIxNmRjYjY2NzUmaW5zaWQ9NTI1Ng&ptn=3&ver=2&hsh=3&fclid=0e3410ad-6c19-67e2-36ba-04b16dcb6675&psq=organic+fertilizer+for+plants&u=a1aHR0cHM6Ly93d3cuZXBpY2dhcmRlbmluZy5jb20vb3JnYW5pYy1mZXJ0aWxpemVycy8&ntb=1">
-<img src="e:\images\orgferti.jpg"width="200" height="200" border size="2"><br><br></a>
+<h2 style="font-family:elephant;color:#107218;">
+ Organic fertilizer</h2> 
+<a href="https://www.bing.com/ck/a?!&&p=d489aac698460702Jmltd
+HM9MTcxMzIyNTYwMCZpZ3VpZD0wZTM0MTBhZC02YzE5LTY3ZTItMzZiYS0
+wNGIxNmRjYjY2NzUmaW5zaWQ9NTI1Ng&ptn=3&ver=2&hsh=3&fclid=0e34
+10ad-6c19-67e2-36ba-04b16dcb6675&psq=organic+fertilizer+for+
+plants&u=a1aHR0cHM6Ly93d3cuZXBpY2dhcmRlbmluZy5jb20vb3JnYW5pYy
+1mZXJ0aWxpemVycy8&ntb=1">
+  <img src="e:\images\orgferti.jpg"width="200" height="200"
+border size="2"><br><br></a>
 
 </body>
     
